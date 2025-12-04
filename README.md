@@ -1,4 +1,4 @@
-# Stok Kontrol Sistemi
+# Stok Takip Sistemi
 
 YBS316 Nesne Yönelimli Programlama Dönem Projesi
 
